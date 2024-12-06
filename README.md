@@ -31,3 +31,10 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/MySQL_textlogo.svg/640px-MySQL_textlogo.svg.png" alt="appwrite" height="30"/>
   <img src="https://logospng.org/download/linux/linux-4096.png" alt="appwrite" height="40"/>
 </p>
+</br>
+
+[![Atomic's GitHub stats](https://github-readme-stats.vercel.app/api?username=AtomicRogue1&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
+
+</br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AtomicRogue1&layout=donut&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
