@@ -12,7 +12,7 @@
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=AtomicRogue1&theme=onedark" alt="yashverma" /> </p>
 
 ### Languages and Tools:
-<p align="left">
+<p align="left" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="appwrite" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="appwrite" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="appwrite" width="40" height="40"/>
@@ -20,6 +20,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="appwrite" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/640px-React-icon.svg.png" alt="appwrite" width="40" height="40"/>
   <img src="https://cdn.freebiesupply.com/logos/large/2x/git-icon-logo-png-transparent.png" alt="appwrite" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="appwrite" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="appwrite" width="40" height="40"/>
+  <a href="https://godotengine.org/"><img src="https://www.diginoodles.com/user/pages/04.projects/04.godot-game-engine/Godot_icon.svg.png" alt="appwrite" width="40" height="40"/></a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png" alt="appwrite" width="40" height="40"/>
 </p>
