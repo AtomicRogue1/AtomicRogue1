@@ -1,8 +1,8 @@
 <h2 align="center">Hey! I am Yash Verma a.k.a AtomicRogue1 !</h2>
 
 - I am a creative and passionate person who loves playing and making games, building cool apps, learning new things and spending time with family and friends. My hobbies are rooted in prose, poetry, manga, videogames and enjoying nature.
-- 🌱 I am currently learning about **Cellular Automata** and **Physics Implementation**.
-- 🧑‍💻 In technologies, I am currently learning **TypeScript** and **Express.js**.
+- 🌱 I am currently learning about **Cloud Technologies** and **Godot Shader Language**.
+- 🧑‍💻 In technologies, I am currently learning **AWS** and **NextJS**.
 - 💻 All my projects are available here on GitHub and [itch.io](https://atomicrogue1.itch.io). You can learn more at my [Portfolio](https://atomicrogue1.github.io).
 - 🤝 You can reach me at **developeryash08082001@gmail.com** and on [LinkedIn](https://www.linkedin.com/in/yash-verma-49b256196/).
 - Fun Fact! I am a pixel artist too! You can check out my works on [Instagram](https://www.instagram.com/_atomicrogue_)
