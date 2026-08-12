@@ -6,7 +6,7 @@
 - 💻 All my projects are available here on GitHub and [itch.io](https://atomicrogue1.itch.io). You can learn more at my [Portfolio](https://atomicrogue1.github.io).
 - 🤝 You can reach me at **developeryash08082001@gmail.com** and on [LinkedIn](https://www.linkedin.com/in/yash-verma-49b256196/).
 - Fun Fact! I am a pixel artist too! You can check out my works on [Instagram](https://www.instagram.com/_atomicrogue_)
-- Another Fun Fact! My favorite manga is **Chainsaw Man**. (Denji deserved better 😭)
+- Another Fun Fact! My favorite manga is **Chainsaw Man**. (Denji deserved better 😭 FUJIMOTO WHEN I CATCH YOU FUJIMOTO!!)
 
 ### Trophies:
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=AtomicRogue1&theme=onedark" alt="yashverma" /> </p>
